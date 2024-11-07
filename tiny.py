@@ -1,4 +1,6 @@
 from tinydb import TinyDB, Query, table
+#pip install tinydb
+
 
 # Criar ou abrir um banco de dados nomeado
 db = TinyDB('db.json')
